@@ -1,0 +1,3 @@
+Use GARbro to unpack
+
+Just drag&drop folder to the exe to pack
